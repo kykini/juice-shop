@@ -1,0 +1,8 @@
+Auth:
+  project_token: 65b6377c-d525-45f7-a317-a90b4a5d458a
+  customer_token: e12d7634-f2b8-42dd-a7d4-08979324ad0c
+SAST:
+  language: others
+SCA:
+  language: others
+Secret_Scan: true
